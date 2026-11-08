@@ -1,0 +1,6 @@
+{
+  "name": "ESG Assurance & Audit Workbench",
+  "description": "Enterprise sustainability assurance-readiness and internal ESG audit platform supporting engagement planning, control documentation, ESG assertions, evidence management, and audit traceability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
